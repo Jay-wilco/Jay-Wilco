@@ -1,11 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m Juha
 
-My name is Juha and I’m currently studying to become a web developer
+I’m an aspiring web developer who learns best by building things, breaking them, and fixing them again. I enjoy turning ideas into working applications and steadily improving my skills one project at a time.
 
+💻 Tech I work with:
+HTML, CSS, JavaScript, React, PHP, Laravel, REST APIs
 
-- 🌱 I’m currently learning basics of React, JavaScript, HTML, CSS and PHP
-- 👯 I’m looking to collaborate on everything
-- 📫 How to reach me: send a message or call!
-- 😄 Pronouns: dude
-- ⚡ Fun fact: Im totally out of scope! 
+🚀 Currently focused on:
+Deepening my React skills, working with APIs, and writing cleaner, more maintainable code.
 
+🛠️ Projects:
+From a personal portfolio to React and Laravel apps, plus smaller JavaScript projects for practice.
+
+🎯 Goal:
+Grow into a confident full-stack developer and build a portfolio I’m proud of.
