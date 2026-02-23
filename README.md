@@ -9,7 +9,7 @@ HTML, CSS, JavaScript, React, PHP, Laravel, REST APIs
 React fundamentals, API integration, and writing code that’s readable, maintainable, and doesn’t surprise me later.
 
 🛠️ What I build:
-Personal projects, React & Laravel apps, and smaller experiments to sharpen logic and UI skills.
+Personal projects, React apps, and smaller experiments to sharpen logic and UI skills.
 
 🎯 Goal:
 Grow into a confident full-stack developer and build software I’m genuinely proud to ship.
