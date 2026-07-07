@@ -1,15 +1,7 @@
-👋 Hi, I’m Juha!
+Hi, I'm Juha 👋
 
-I’m an aspiring web developer who learns by building real projects and improving them one commit at a time. I enjoy turning ideas into working applications and refining my code until it’s cleaner than the last version.
+I'm a Full Stack Developer from Finland. Before changing careers, I spent more than 15 years leading teams and solving practical problems in logistics. Today I enjoy solving a different kind of problems—building web applications with React, Next.js, Laravel and WordPress.
 
-💻 Tech stack:
-HTML, CSS, JavaScript, React, PHP, Laravel, REST APIs
+I like learning by building. Most of the repositories here started as ideas, school projects or experiments that gradually evolved into working applications. I believe the best way to improve as a developer is to keep shipping projects, learning from mistakes and continuously refining both code and problem-solving skills.
 
-🚀 Currently focused on:
-React fundamentals, API integration, and writing code that’s readable, maintainable, and doesn’t surprise me later.
-
-🛠️ What I build:
-Personal projects, React apps, and smaller experiments to sharpen logic and UI skills.
-
-🎯 Goal:
-Grow into a confident full-stack developer and build software I’m genuinely proud to ship.
+I'm currently looking for my first full-time opportunity in software development or other technical IT roles where I can keep learning and contribute to a great team.
